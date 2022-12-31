@@ -1,0 +1,5 @@
+domain-suffix,sub.store,proxy
+domain-suffix,fragment.com,proxy
+domain-suffix,giphy.com,proxy
+domain-suffix,tenor.com,proxy
+domain-keyword,dandanzan,proxy
