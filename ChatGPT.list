@@ -2,5 +2,7 @@ domain,cdn.auth0.com
 domain,challenges.cloudflare.com
 domain,openaiapi-site.azureedge.net
 domain-suffix,ai.com
+domain-suffix,sentry.io
 domain-suffix,openai.com
+domain-suffix,intercom.io
 domain-suffix,identrust.com
