@@ -1,2 +1,3 @@
 domain-suffix,pool.ntp.org
 domain-suffix,ntp.nasa.gov
+domain-suffix,amazon.cn
