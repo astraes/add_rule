@@ -6,3 +6,7 @@ domain-suffix,sentry.io
 domain-suffix,openai.com
 domain-suffix,intercom.io
 domain-suffix,identrust.com
+domain-suffix,api.statsig.com
+domain-suffix,events.statsigapi.net
+domain-suffix,intercomcdn.com
+domain-suffix,featuregates.org
