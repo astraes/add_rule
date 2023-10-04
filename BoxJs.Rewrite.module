@@ -1,4 +1,4 @@
 #!name=BoxJs Rewrite
 #!desc=http://boxjs.com
 [Script]
-BoxJs Rewrite= type=http-request,pattern=^https?:\/\/(.+\.)?boxjs\.(com|net),script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js, requires-body=true, timeout=120
+BoxJs Rewrite = type=http-request,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js,pattern=^https?:\/\/(.+\.)?boxjs\.(com|net),max-size=131072,requires-body=true,timeout=120,script-update-interval=0,enable=true
