@@ -10,3 +10,5 @@ domain-suffix,api.statsig.com
 domain-suffix,events.statsigapi.net
 domain-suffix,intercomcdn.com
 domain-suffix,featuregates.org
+domain-suffix,oaistatic.com
+domain-suffix,oaiusercontent.com
