@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,justwatch.com
+DOMAIN-SUFFIX,cf.prod.media.h264.io
+DOMAIN-SUFFIX,fly.prd.media.h264.io
+DOMAIN-SUFFIX,cf.prd.media.h264.io
 DOMAIN-SUFFIX,z-library.se
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zlib-articles.se
@@ -19,5 +23,3 @@ DOMAIN-SUFFIX,25img.com
 DOMAIN-SUFFIX,66img.cc
 DOMAIN-SUFFIX,99img.cc
 DOMAIN-SUFFIX,ipfighter.com
-IP-CIDR,5.28.195.80/32,no-resolve
-IP-CIDR,5.28.194.45/32,no-resolve
